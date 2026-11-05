@@ -4,7 +4,8 @@ Static, responsive website with no build step. Open `index.html` in a browser or
 
 ## Public design preview
 
-The GitHub Pages preview is available at https://wavemaxx96.github.io/readymix-website/.
+Enable GitHub Pages in the repository's **Settings > Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, and save. This session could push code but did not have permission to enable Pages.
+Once deployment finishes, the expected preview address is https://wavemaxx96.github.io/readymix-website/.
 This is not a production launch. Quote requests are not connected, company details are incomplete, and the legal pages are drafts. Pages include `noindex, nofollow` to discourage search indexing; this is not access control.
 
 ## Before launch
